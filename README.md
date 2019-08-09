@@ -1,6 +1,6 @@
 # Malaria-Cell-Image-Classification
 ### Classifying Malaria infecting based on red blood cell images.
-### My CNN has a 92% classification Accuracy
+### After 5 epochs  the CNN has a 92% classification Accuracy
 
 
 ![](/logs/graphs/val_acc.png)
