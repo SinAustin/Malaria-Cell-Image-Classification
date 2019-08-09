@@ -1,7 +1,8 @@
 # Malaria-Cell-Image-Classification
 ### Classifying Malaria infecting based on red blood cell images.
 ### My CNN has a 92% classification Accuracy
-<img alt="my image" src=/logs/graphs/epoch_val_acc.svg&sanitize=true>
+
+![](/logs/graphs/epoch_val_acc.svg&sanitize=true)
 ### Data Acquisition and Prep.
 
 The cell images used in this case are from the U.C Nation Library of Medicine. https://lhncbc.nlm.nih.gov/publication/pub9932.
