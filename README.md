@@ -1,6 +1,6 @@
 # Malaria-Cell-Image-Classification
-### Classifying Malaria infecting based on red blood cell images. Tools used were 
-Python|Keras|Sklearn|skimage|numpy|Glob| And Both Tensorboard and Matplotlib for graphing.
+### Classifying Malaria infecting based on red blood cell images.
+Tools used were: Python|Keras|Sklearn|skimage|numpy|Glob| And Both Tensorboard and Matplotlib for graphing.
 
 ### After 5 epochs  the CNN has a 92% classification Accuracy
 
