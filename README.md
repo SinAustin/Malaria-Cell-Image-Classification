@@ -8,7 +8,7 @@
 
 
 ### Data Acquisition & EDA
-The cell images used in this case are from the U.C Nation Library of Medicine. https://lhncbc.nlm.nih.gov/publication/pub9932.
+The cell images used in this case are from the U.S Nation Library of Medicine. https://lhncbc.nlm.nih.gov/publication/pub9932.
 
 
 ![](/logs/graphs/Pf_rings_thinA.jpg)
