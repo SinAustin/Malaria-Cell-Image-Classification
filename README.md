@@ -5,7 +5,7 @@
 ### Data Acquisition and Prep.
 
 The cell images used in this case are from the U.C Nation Library of Medicine. https://lhncbc.nlm.nih.gov/publication/pub9932.
-
+![](/.ipynb_checkpoints/Pf_rings_thinA.jpg)
 Initially the Data was seperated into folders as parasitised and uninfected. Each containing 13,780 images. The images where not labeled so i wrote a python script to rename the images as paras.#.jpg(parasitised) or uninf.#.jpg(uninfected) i.e-
 
 os.rename(os.path.join(path, file), os.path.join(path, 'paras.' +str(i)+'.jpg'))
